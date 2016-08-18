@@ -1,0 +1,17 @@
+{
+    "name": "jsmathcmex10-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Donald Knuth"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/jsmathcmex10-bower.git"
+    },
+    "description": "jsMath cmex10 font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
